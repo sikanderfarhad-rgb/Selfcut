@@ -1,0 +1,8 @@
+{
+  "vision_wasm_internal.js": 334128,
+  "vision_wasm_internal.wasm": 14466654,
+  "vision_wasm_nosimd_internal.js": 333931,
+  "vision_wasm_nosimd_internal.wasm": 12915401,
+  "face_landmarker.task.bin": 3758596,
+  "hair_segmenter.tflite.bin": 781618
+}
